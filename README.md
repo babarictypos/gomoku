@@ -14,4 +14,4 @@ This version is used as an archive, however a second version with more efficient
 
 
 
-![gomoku delete](https://user-images.githubusercontent.com/72893835/180881993-b47fa628-c8f8-48f3-af15-0afb41f13199.png)
+![gomoku delete](https://user-images.githubusercontent.com/72893835/180881993-b47fa628-c8f8-48f3-af15-0afb41f13199.png| width=300)
