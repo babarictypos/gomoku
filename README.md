@@ -2,7 +2,7 @@
 Gomoku engine with tkinter GUI - beats me (beginner) more than 50% of the time
 
 <p align="center">
-![gomoku delete](https://user-images.githubusercontent.com/72893835/180881640-22bfa223-fd97-499f-8291-09a1e7b468e7.png)
+![gomoku delete](https://user-images.githubusercontent.com/72893835/180881769-22adf0f1-c1a4-4f59-b9c9-97b9411a8fae.png)
 </p>
 
 # Usage
@@ -13,6 +13,7 @@ My first ever coding project outside of hello world/ Visual basic calculator GUI
 
 # Version
 This version is used as an archive, however a second version with more efficient logic and evaluation is being implemented. Alpha-beta pruning will (hopefully) be used to optimise depth searching.
+
 
 
 
