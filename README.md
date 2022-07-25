@@ -2,7 +2,7 @@
 Gomoku engine with tkinter GUI - beats me (beginner) more than 50% of the time
 
 <p align="center">
-![](https://user-images.githubusercontent.com/72893835/180881435-acc07333-9ed2-4269-b964-5796d046d3f3.png | width=100)
+![](https://user-images.githubusercontent.com/72893835/180881435-acc07333-9ed2-4269-b964-5796d046d3f3.png | width=100)>
 </p>
 
 # Usage
